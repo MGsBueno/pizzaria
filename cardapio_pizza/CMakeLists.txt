@@ -24,4 +24,4 @@ add_executable(cardapio_pizza
         no_interno.c
         no_interno.h
         test_arvore_b_mais.c
-        ufftest.h)
+        ufftest.h main_teste.cpp main_teste.h main_teste.c)

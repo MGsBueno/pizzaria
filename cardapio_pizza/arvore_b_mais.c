@@ -10,7 +10,18 @@
 
 int busca(int cod, char *nome_arquivo_metadados, char *nome_arquivo_indice, char *nome_arquivo_dados, int d)
 {
-	//TODO: Inserir aqui o codigo do algoritmo
+	FILE *indice, *mdados,*dados;
+
+    indice = fopen (nome_arquivo_indice,"rb");
+	mdados = fopen(nome_arquivo_metadados,"rb");
+	dados = fopen(nome_arquivo_dados,"rb");
+
+
+
+
+
+
+
     return INT_MAX;
 }
 

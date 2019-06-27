@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/COLUNI UFF/Documents/EDA/pizzaria/cardapio_pizza/arvore_b_mais.c
+limits.h
+-
+arvore_b_mais.h
+C:/Users/COLUNI UFF/Documents/EDA/pizzaria/cardapio_pizza/arvore_b_mais.h
+lista_pizzas.h
+C:/Users/COLUNI UFF/Documents/EDA/pizzaria/cardapio_pizza/lista_pizzas.h
+
+C:/Users/COLUNI UFF/Documents/EDA/pizzaria/cardapio_pizza/arvore_b_mais.h
+
+C:/Users/COLUNI UFF/Documents/EDA/pizzaria/cardapio_pizza/lista_pizzas.h
+pizza.h
+C:/Users/COLUNI UFF/Documents/EDA/pizzaria/cardapio_pizza/pizza.h
+
+C:/Users/COLUNI UFF/Documents/EDA/pizzaria/cardapio_pizza/pizza.h
+stdio.h
+-
+
